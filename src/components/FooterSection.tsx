@@ -43,9 +43,9 @@ export default function FooterSection() {
           <div>
             <h4 className="font-semibold mb-4 text-gold-light text-sm">{t.footer.contactInfo}</h4>
             <div className="space-y-2.5 text-sm text-primary-foreground/60">
-              <a href="tel:+93799772021" className="block hover:text-gold transition-colors">+93 799 772 021</a>
-              <a href="tel:+93700409195" className="block hover:text-gold transition-colors">+93 700 409 195</a>
-              <a href="mailto:Herat.M@Live.Com" className="block hover:text-gold transition-colors">Herat.M@Live.Com</a>
+              <a href="tel:+93799772021" className="block hover:text-gold transition-colors ltr-text">+93 799 772 021</a>
+              <a href="tel:+93700409195" className="block hover:text-gold transition-colors ltr-text">+93 700 409 195</a>
+              <a href="mailto:Herat.M@Live.Com" className="block hover:text-gold transition-colors ltr-text">Herat.M@Live.Com</a>
               <p>{t.contact.address}</p>
             </div>
           </div>

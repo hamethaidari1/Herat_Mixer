@@ -200,4 +200,10 @@
     transform: translateY(-6px);
     box-shadow: 0 20px 40px -12px oklch(0.22 0.03 260 / 15%);
   }
+
+  .ltr-text {
+    direction: ltr;
+    unicode-bidi: isolate;
+    text-align: inherit;
+  }
 }

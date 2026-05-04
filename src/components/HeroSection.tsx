@@ -22,7 +22,7 @@ export default function HeroSection() {
         <div className="max-w-2xl">
           <div className="inline-flex items-center gap-2 bg-gold/20 backdrop-blur-sm rounded-full px-4 py-1.5 mb-6">
             <span className="w-2 h-2 rounded-full bg-gold animate-pulse" />
-            <span className="text-xs text-gold-light font-medium tracking-wider uppercase">Trusted Since Establishment</span>
+            <span className="text-xs text-gold-light font-medium tracking-wider uppercase">{t.hero.tagline}</span>
           </div>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold leading-tight text-primary-foreground mb-6">
             {t.hero.title}

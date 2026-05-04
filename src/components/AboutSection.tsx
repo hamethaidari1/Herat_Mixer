@@ -23,7 +23,7 @@ export default function AboutSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid lg:grid-cols-2 gap-20 items-center">
           <div className="order-2 lg:order-1">
-            <span className="text-sm font-bold text-wood tracking-[0.2em] uppercase">Our Legacy</span>
+            <span className="text-sm font-bold text-wood tracking-[0.2em] uppercase">{t.about.tagline}</span>
             <h2 className="text-3xl sm:text-5xl font-heading font-black text-navy mt-4 mb-8 leading-tight">
               {t.about.title}
             </h2>

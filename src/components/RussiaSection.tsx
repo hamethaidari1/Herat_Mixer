@@ -18,7 +18,7 @@ export default function RussiaSection() {
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <span className="text-sm font-bold text-wood tracking-[0.2em] uppercase">International Supply Chain</span>
+          <span className="text-sm font-bold text-wood tracking-[0.2em] uppercase">{t.russia.tagline}</span>
           <h2 className="text-3xl sm:text-5xl font-heading font-black text-navy mt-4 mb-6 leading-tight">
             {t.russia.title}
           </h2>

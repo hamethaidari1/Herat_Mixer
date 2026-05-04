@@ -72,11 +72,11 @@ export default function ContactSection() {
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone size={18} className="text-wood shrink-0" />
-                  <span className="text-sm text-muted-foreground">+93 799 77 2021</span>
+                  <span className="text-sm text-muted-foreground ltr-text">+93 799 77 2021</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail size={18} className="text-wood shrink-0" />
-                  <a href="mailto:Herat.M@Live.Com" className="text-sm text-muted-foreground">Herat.M@Live.Com</a>
+                  <a href="mailto:Herat.M@Live.Com" className="text-sm text-muted-foreground ltr-text">Herat.M@Live.Com</a>
                 </div>
               </div>
             </div>

@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "products": "Products",
+    "projects": "Projects",
+    "whyUs": "Why Us",
+    "contact": "Contact",
+    "quote": "Get a Quote"
+  },
+  "hero": {
+    "title": "Premium Wood & Timber Solutions for Modern Construction",
+    "subtitle": "HERAT MIXER .CO.LTD imports high-quality wood materials from Russia and delivers premium timber solutions across Afghanistan for construction, furniture, and industrial projects.",
+    "cta1": "Get a Quote",
+    "cta2": "Explore Services",
+    "tagline": "Trusted Since Establishment"
+  },
+  "about": {
+    "title": "About HERAT MIXER .CO.LTD",
+    "text": "We are a professional wood and timber company focused on quality, reliability, and long-term business partnerships. HERAT MIXER .CO.LTD imports premium wood materials from Russia and supplies timber products across Afghanistan for construction companies, furniture manufacturers, interior designers, and commercial projects.",
+    "years": "Years Experience",
+    "projects": "Completed Projects",
+    "clients": "Business Clients",
+    "cities": "Cities Served",
+    "materials": "Premium Materials",
+    "tagline": "Our Legacy"
+  },
+  "russia": {
+    "title": "From Russia to Afghanistan — Reliable Wood Supply",
+    "text": "HERAT MIXER .CO.LTD sources high-quality wood and timber materials directly from Russia and delivers them across Afghanistan. We provide reliable transportation, wholesale supply, and professional business solutions for clients in every major city and province.",
+    "cards": [
+      "Russian Timber Import",
+      "Nationwide Delivery",
+      "Wholesale Supply",
+      "Fast Transportation",
+      "Reliable Logistics",
+      "Business Partnerships"
+    ],
+    "tagline": "International Supply Chain"
+  },
+  "sugar": {
+    "title": "Premium Sugar Import Services",
+    "tagline": "International Trade Division",
+    "text": "HERAT MIXER .CO.LTD also operates in international sugar import and wholesale supply from Turkey to Afghanistan. We provide reliable logistics, bulk transportation, and professional delivery services for commercial clients, wholesalers, and distributors across Afghanistan.",
+    "cards": [
+      "Sugar Import from Turkey",
+      "Wholesale Sugar Supply",
+      "Commercial Distribution",
+      "Bulk Transportation",
+      "Logistics & Delivery",
+      "Nationwide Afghanistan Delivery"
+    ],
+    "turkey": "Turkey",
+    "toAfghanistan": "TO AFGHANISTAN"
+  },
+  "services": {
+    "title": "Our Premium Services",
+    "subtitle": "Comprehensive wood and timber solutions for every need",
+    "items": [
+      {
+        "title": "Timber Supply",
+        "desc": "High-quality timber sourced from premium Russian forests for all construction needs."
+      },
+      {
+        "title": "Russian Timber Import",
+        "desc": "Direct import of premium-grade wood materials from Russia's finest forests."
+      },
+      {
+        "title": "Wood Processing",
+        "desc": "Professional wood processing with modern equipment and skilled craftsmen."
+      },
+      {
+        "title": "Construction Wood",
+        "desc": "Durable and reliable construction-grade timber for building projects."
+      },
+      {
+        "title": "Furniture-Grade Wood",
+        "desc": "Premium quality wood perfect for luxury furniture manufacturing."
+      },
+      {
+        "title": "Custom Wood Orders",
+        "desc": "Tailored wood solutions to meet your specific project requirements."
+      },
+      {
+        "title": "Wholesale Timber",
+        "desc": "Competitive wholesale pricing for large-scale timber procurement."
+      },
+      {
+        "title": "Nationwide Delivery",
+        "desc": "Reliable delivery to all major cities and provinces across Afghanistan."
+      }
+    ],
+    "tagline": "Premium Solutions"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Premium wood materials for every application",
+    "items": [
+      "Natural Timber",
+      "Processed Wood",
+      "Plywood & Boards",
+      "Construction Wood",
+      "Decorative Wood",
+      "Custom Wood Cuts"
+    ]
+  },
+  "projectsSection": {
+    "title": "Our Projects",
+    "subtitle": "Trusted by leading construction and business companies",
+    "items": [
+      {
+        "title": "Residential Construction Supply",
+        "desc": "Supplying premium timber for modern residential developments across Afghanistan."
+      },
+      {
+        "title": "Commercial Interior Projects",
+        "desc": "High-quality decorative wood for luxury commercial interiors."
+      },
+      {
+        "title": "Furniture Material Supply",
+        "desc": "Premium grade wood for Afghanistan's leading furniture manufacturers."
+      },
+      {
+        "title": "Industrial Timber Delivery",
+        "desc": "Large-scale industrial timber supply for major construction projects."
+      },
+      {
+        "title": "Large Construction Partnerships",
+        "desc": "Long-term supply partnerships with major construction companies."
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose HERAT MIXER",
+    "subtitle": "Your trusted partner in premium wood solutions",
+    "items": [
+      "High-Quality Materials",
+      "Russian Supply Chain",
+      "Reliable Delivery",
+      "Professional Service",
+      "Competitive Pricing",
+      "Long-Term Partnerships",
+      "Nationwide Logistics",
+      "Fast Transportation"
+    ]
+  },
+  "trust": {
+    "title": "Trusted Wood Partner for Construction & Business Projects",
+    "text": "With years of experience and a proven track record, HERAT MIXER .CO.LTD has established itself as the most reliable wood and timber partner in Afghanistan. Our commitment to quality, transparency, and customer satisfaction sets us apart in the industry.",
+    "cta": "Start a Partnership"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for premium wood solutions",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send Message",
+    "address": "AFGHANISTAN\nHerat, Bank Khun Street\nIn front of Otaghahye Tejarat",
+    "whatsapp": "WhatsApp Us",
+    "phone1": "+93 799 772 021",
+    "phone2": "+93 700 409 195",
+    "phone3": "+90 531 889 54 36"
+  },
+  "footer": {
+    "desc": "HERAT MIXER .CO.LTD is a leading wood and timber company importing premium materials from Russia and delivering across Afghanistan.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "contactInfo": "Contact Info",
+    "rights": "All rights reserved."
+  },
+  "brand": {
+    "name": "Herat Mixer",
+    "suffix": ".CO.LTD"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "code_en": "EN",
+    "code_tr": "TR",
+    "code_fa": "FA",
+    "code_ru": "RU"
+  }
+}

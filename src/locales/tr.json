@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "products": "Ürünler",
+    "projects": "Projeler",
+    "whyUs": "Neden Biz",
+    "contact": "İletişim",
+    "quote": "Teklif Alın"
+  },
+  "hero": {
+    "title": "Modern İnşaat İçin Premium Ahşap ve Kereste Çözümleri",
+    "subtitle": "HERAT MIXER .CO.LTD, Rusya'dan yüksek kaliteli ahşap malzemeler ithal ederek Afganistan genelinde inşaat, mobilya ve endüstriyel projeler için premium kereste çözümleri sunmaktadır.",
+    "cta1": "Teklif Alın",
+    "cta2": "Hizmetleri Keşfedin",
+    "tagline": "Kuruluşundan Beri Güvenilir"
+  },
+  "about": {
+    "title": "HERAT MIXER .CO.LTD Hakkında",
+    "text": "Kalite, güvenilirlik ve uzun vadeli iş ortaklıklarına odaklanan profesyonel bir ahşap ve kereste şirketiyiz. HERAT MIXER .CO.LTD, Rusya'dan premium ahşap malzemeler ithal ederek Afganistan genelinde inşaat şirketleri, mobilya üreticileri, iç mimarlar ve ticari projeler için kereste ürünleri tedarik etmektedir.",
+    "years": "Yıllık Deneyim",
+    "projects": "Tamamlanan Proje",
+    "clients": "İş Ortağı",
+    "cities": "Hizmet Verilen Şehir",
+    "materials": "Premium Malzeme",
+    "tagline": "Mirasımız"
+  },
+  "russia": {
+    "title": "Rusya'dan Afganistan'a — Güvenilir Ahşap Tedariki",
+    "text": "HERAT MIXER .CO.LTD, yüksek kaliteli ahşap ve kereste malzemelerini doğrudan Rusya'dan tedarik ederek Afganistan genelinde teslim etmektedir.",
+    "cards": [
+      "Rus Kereste İthalatı",
+      "Ülke Çapında Teslimat",
+      "Toptan Tedarik",
+      "Hızlı Taşımacılık",
+      "Güvenilir Lojistik",
+      "İş Ortaklıkları"
+    ],
+    "tagline": "Uluslararası Tedarik Zinciri"
+  },
+  "sugar": {
+    "title": "Premium Şeker İthalat Hizmetleri",
+    "tagline": "Uluslararası Ticaret Bölümü",
+    "text": "HERAT MIXER .CO.LTD ayrıca Türkiye'den Afganistan'a uluslararası şeker ithalatı ve toptan tedariki alanında faaliyet göstermektedir. Afganistan genelindeki ticari müşteriler, toptancılar ve distribütörler için güvenilir lojistik, dökme taşımacılık ve profesyonel teslimat hizmetleri sunuyoruz.",
+    "cards": [
+      "Türkiye'den Şeker İthalatı",
+      "Toptan Şeker Tedariki",
+      "Ticari Dağıtım",
+      "Dökme Taşımacılık",
+      "Lojistik ve Teslimat",
+      "Ülke Çapında Teslimat"
+    ],
+    "turkey": "Türkiye",
+    "toAfghanistan": "AFGANİSTAN'A"
+  },
+  "services": {
+    "title": "Premium Hizmetlerimiz",
+    "subtitle": "Her ihtiyaç için kapsamlı ahşap ve kereste çözümleri",
+    "items": [
+      {
+        "title": "Kereste Tedariki",
+        "desc": "Tüm inşaat ihtiyaçları için premium Rus ormanlarından tedarik edilen yüksek kaliteli kereste."
+      },
+      {
+        "title": "Rus Kereste İthalatı",
+        "desc": "Rusya'nın en iyi ormanlarından premium kalite ahşap malzeme doğrudan ithalatı."
+      },
+      {
+        "title": "Ahşap İşleme",
+        "desc": "Modern ekipman ve uzman zanaatkarlarla profesyonel ahşap işleme."
+      },
+      {
+        "title": "İnşaat Ahşabı",
+        "desc": "İnşaat projeleri için dayanıklı ve güvenilir inşaat sınıfı kereste."
+      },
+      {
+        "title": "Mobilya Sınıfı Ahşap",
+        "desc": "Lüks mobilya üretimi için mükemmel kalitede ahşap."
+      },
+      {
+        "title": "Özel Ahşap Siparişler",
+        "desc": "Projenize özel ahşap çözümleri."
+      },
+      {
+        "title": "Toptan Kereste",
+        "desc": "Büyük ölçekli kereste tedariği için rekabetçi toptan fiyatlandırma."
+      },
+      {
+        "title": "Ülke Çapında Teslimat",
+        "desc": "Afganistan genelinde tüm büyük şehir ve illere güvenilir teslimat."
+      }
+    ]
+  },
+  "products": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Her uygulama için premium ahşap malzemeler",
+    "items": [
+      "Doğal Kereste",
+      "İşlenmiş Ahşap",
+      "Kontrplak & Levhalar",
+      "İnşaat Ahşabı",
+      "Dekoratif Ahşap",
+      "Özel Ahşap Kesimler"
+    ]
+  },
+  "projectsSection": {
+    "title": "Projelerimiz",
+    "subtitle": "Önde gelen inşaat ve iş şirketleri tarafından güvenilmektedir",
+    "items": [
+      {
+        "title": "Konut İnşaat Tedariki",
+        "desc": "Afganistan genelinde modern konut projeleri için premium kereste tedariki."
+      },
+      {
+        "title": "Ticari İç Mekan Projeleri",
+        "desc": "Lüks ticari iç mekanlar için yüksek kaliteli dekoratif ahşap."
+      },
+      {
+        "title": "Mobilya Malzeme Tedariki",
+        "desc": "Afganistan'ın önde gelen mobilya üreticileri için premium kalite ahşap."
+      },
+      {
+        "title": "Endüstriyel Kereste Teslimatı",
+        "desc": "Büyük inşaat projeleri için büyük ölçekli endüstriyel kereste tedariki."
+      },
+      {
+        "title": "Büyük İnşaat Ortaklıkları",
+        "desc": "Büyük inşaat şirketleriyle uzun vadeli tedarik ortaklıkları."
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Neden HERAT MIXER",
+    "subtitle": "Premium ahşap çözümlerinde güvenilir ortağınız",
+    "items": [
+      "Yüksek Kaliteli Malzemeler",
+      "Rus Tedarik Zinciri",
+      "Güvenilir Teslimat",
+      "Profesyonel Hizmet",
+      "Rekabetçi Fiyatlandırma",
+      "Uzun Vadeli Ortaklıklar",
+      "Ülke Çapında Lojistik",
+      "Hızlı Taşımacılık"
+    ]
+  },
+  "trust": {
+    "title": "İnşaat ve İş Projeleri İçin Güvenilir Ahşap Ortağı",
+    "text": "Yılların deneyimi ve kanıtlanmış bir sicille HERAT MIXER .CO.LTD, Afganistan'daki en güvenilir ahşap ve kereste ortağı olarak kendini kanıtlamıştır.",
+    "cta": "Ortaklık Başlatın"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Premium ahşap çözümleri için bizimle iletişime geçin",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "send": "Mesaj Gönder",
+    "address": "AFGHANISTAN\nHerat, Bank Khun Street\nIn front of Otaghahye Tejarat",
+    "whatsapp": "WhatsApp ile Yazın",
+    "phone1": "+93 799 772 021",
+    "phone2": "+93 700 409 195",
+    "phone3": "+90 531 889 54 36"
+  },
+  "footer": {
+    "desc": "HERAT MIXER .CO.LTD, Rusya'dan premium malzemeler ithal eden ve Afganistan genelinde teslim eden önde gelen bir ahşap ve kereste şirketidir.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "ourServices": "Hizmetlerimiz",
+    "contactInfo": "İletişim Bilgileri",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "brand": {
+    "name": "Herat Mixer",
+    "suffix": ".CO.LTD"
+  },
+  "languages": {
+    "en": "İngilizce",
+    "tr": "Türkçe",
+    "fa": "Farsça",
+    "ru": "Rusça",
+    "code_en": "EN",
+    "code_tr": "TR",
+    "code_fa": "FA",
+    "code_ru": "RU"
+  }
+}

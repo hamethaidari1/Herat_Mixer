@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import RussiaSection from "@/components/RussiaSection";
+import SugarSection from "@/components/SugarSection";
 import ServicesSection from "@/components/ServicesSection";
 import ProductsSection from "@/components/ProductsSection";
 import ProjectsSection from "@/components/ProjectsSection";
@@ -39,6 +40,7 @@ function Index() {
           <HeroSection />
           <AboutSection />
           <RussiaSection />
+          <SugarSection />
           <ServicesSection />
           <ProductsSection />
           <ProjectsSection />
