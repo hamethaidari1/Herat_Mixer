@@ -1,5 +1,5 @@
 import logoImg from "@/assets/herat_mixer_logo.png";
-import logoWhiteImg from "@/assets/herat_mixer white_logo.png";
+import logoWhiteImg from "@/assets/herat_mixer_white_logo.png";
 
 type LogoVariant = "navy" | "white" | "mono" | "default";
 
