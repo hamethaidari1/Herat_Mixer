@@ -1,6 +1,6 @@
 import { useI18n } from "@/lib/i18n";
 import woodTexture from "@/assets/wood-texture.jpg";
-import sugarImage from "@/assets/Sugar.png";
+import sugarImage from "@/assets/Shugar.new.jpeg";
 import { Ship, PackageSearch, Building2, Truck, Globe2, MapPin } from "lucide-react";
 
 const icons = [Globe2, Building2, PackageSearch, Ship, Truck, MapPin];
